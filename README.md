@@ -1,0 +1,2 @@
+# Open_06Team
+CBNU_SW_3_06team_MyeongPool
